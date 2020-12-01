@@ -1,0 +1,46 @@
+Kampf gegen Corona in Asien: Erfolg dank Datenzugriff
+Ohne Handy kommt man nicht in den Supermarkt: Singapur und Südkorea setzen auf die extensive Nutzung der Daten von Bürgern gegen die Verbreitung von COVID-19. Im Westen will man eher Daten- statt Virenschutz.
+
+Singapur Mann scannt QR-Code eines digitalen Abfertigungssystems
+Jeden Abend bekommt Janine Dietzel eine SMS der Regierung mit dem Inhalt, dass keine neuen Corona-Fälle registriert wurden. Seit ein paar Wochen sind in Singapur keine lokal verbreiteten COVID-19-Fälle mehr aufgetreten. Dietzel fühlt sich sicher, sie kann sich nicht anstecken. Doch das Sicherheitsgefühl hat eine Kehrseite: "Ich habe keine andere Wahl, als mich den vielen Regeln zu fügen", sagt sie der DW am Telefon.
+
+Die Regeln fangen an, sobald sie ihre Wohnung in Singapur verlässt. Ihr Handy ist dann immer voll aufgeladen, denn sie braucht es, um sich frei bewegen zu können. "Ich muss mich überall ein- und auschecken." Wie oft sie ihr Handy zücken muss, erklärt Dietzel am Beispiel eines Besuchs im Einkaufszentrum. Sie scannt es zuerst am Haupteingang, als nächstes, wenn sie drinnen einen der Läden betritt, wenn sie diesen wieder verlässt, und zuletzt, wenn sie aus dem Gebäude wieder auf die Straße hinausgeht.
+
+Wenn sie also die Shopping Mall und darin vier Geschäfte besucht, wurden ihre Daten zehn Mal gespeichert. "Selbst bei einem kleinen Takeaway-Stand auf dem Markt muss ich mich scannen lassen", erzählt die Deutsche, die seit drei Jahren in Singapur lebt.
+
+Zentrale Datenauswertung
+
+Das Überwachungsprogramm läuft seit Mai dieses Jahres unter dem Namen "SafeEntry". Der asiatische Stadtstaat registriert derzeit weniger als zehn neue COVID-19-Fälle pro Tag. Diese sind ausnahmslos importiert, die Betroffenen müssen in Quarantäne. In Singapur gab es bislang rund 58.000 Fälle unter den 5,6 Millionen Einwohnern. Doch heute kommen die wenigen Infizierten allesamt aus dem Ausland.
+
+Der offizielle Lockdown in Singapur endete Mitte Juni. Aber das Leben ist noch nicht zur Normalität zurückgekehrt. "Im Büro laufen Social-Distancing-Beauftrage umher und überprüfen den Abstand zwischen den Tischen. Am Strand muss man sich eingezäunte Bereiche auf Zeit buchen", erzählt Dietzel. Grundsätzlich könne sie sich aber frei bewegen. Schulen und Kitas, Museen, Kinos, Fitnessstudios und Büros sind unter strengen Vorsichtsmaßnahmen und begrenzter Besucherzahl wieder geöffnet.
+
+ Singapur | Coronavirus
+Masketragen auf dem Geylang-Serai-Markt in Singapur im April
+
+Möglich macht dies die praktisch lückenlose Verfolgung und Speicherung der Wege und Aufenthaltsorte der Bürger durch den Staat mit "SafeEntry" in Kombination mit einer Corona-Warn-App namens "TraceTogether". Diese erleichtert den Mitarbeitern im Gesundheitsministerium (MOH) in Singapur festzustellen, mit wem ein Infizierter Kontakt hatte. Die Kontaktverfolger im MOH setzen daneben wie schon bei der Sars-Epidemie im Frühjahr 2003 auf intensive Telefonrecherche, um alle Kontakte eines Infizierten möglichst lückenlos aufzuklären. Diese Kombination aus Big Data und direkter persönlicher Ansprache wird in Singapur als das Erfolgsrezept bei der Eindämmung der Epidemie gesehen.
+
+Große Akzeptanz für Überwachungsmaßnahmen
+
+"Natürlich macht es ein mulmiges Gefühl, dass die Regierung so viele Daten von mir hat. Andererseits gehen meine Daten auch an amerikanische Firmen, wenn ich Social Media nutze", sagt Dietzel.
+
+Die Akzeptanz in der Bevölkerung für die Überwachungsmaßnahmen ist groß. Laut einer Singapurer "Institute of Public Policy" befürworten 59 Prozent der Befragten die Kontaktverfolgung anhand ihrer Handydaten zur Bekämpfung von COVID-19. Und 49 Prozent wären sogar damit einverstanden, wenn ihre Mobilfunk-Daten für diesen Zweck ohne ihr Einverständnis abgegriffen würden.
+
+ Südkorea Chungju | Coronavirus | Schulöffnungen
+In dieser Schule in Südkorea wurde zur Eindämmung der Pandemie im Mai auch die Körpertemperatur gemessen
+
+Auch George Baca bekommt weiterhin SMS-Nachrichten von der Regierung. Der amerikanische Professor für Sozialanthropologie an der Dong-A Universität in Busan in Südkorea hat der DW den Screenshot einer Nachricht vom Februar geschickt. Darin heißt es übersetzt: "Ein bestätigter Patient aus dem Dongnae-Stadtteil in Busan ging am 18. Februar um 16.20 Uhr zum Sportzentrum, um 17 Uhr zum Gemeindezentrum im Boksan-Viertel, um 17:40 Uhr zum Sozialamt von Dongnae und um 17.40 Uhr zu einem Lebensmittelladen im Daeyeon-Viertel in der Nähe der Munyeon-U-Bahn-Haltestelle."
+
+Ernüchternde Erfahrungen in Südkorea
+
+Diese Angaben wurden von dem Betreffenden nicht etwa freiwillig gemacht, sondern automatisch abgegriffen. Das sogenannte "Smart Management System" der südkoreanischen Regierung kann auf die GPS- und Kreditkartendaten aller Bürger zugreifen. Die nur schwach anonymisierten SMS der Regierung hatten laut einem Bericht der "New York Times" zur Folge, dass Personen identifizierbar waren und online gemobbt wurden. Was dies für Folgen haben kann, zeigt ein Beispiel vom Mai dieses Jahres. Bei einer Ballung von Infektionen im Ausgehviertel Itaewon in der Hauptstadt Seoul mussten Menschen der LGBTQ-Szene fürchten, per Regierungs-SMS unfreiwillig geoutet zu werden.
+
+Nachdem über Online-Mobbing berichtet wurde, sind die Corona-SMS der Regierung in Seoul heute weniger detailliert. Doch die massenhafte Veröffentlichung von Kontaktdaten hat Spuren hinterlassen. Eine Umfrage der "Seoul National University Graduate School of Public Health" kam zu dem Ergebnis, dass Befragte sich mehr vor dem sozialen Stigma einer Erkrankung als vor dem Virus fürchten.
+
+Corona: Was Europa von Asien lernen kann
+Asiatische Erfolgsrezepte
+
+Südkorea verzeichnete bislang gut 30.700 Infektionen und 505 damit zusammenhängende Todesfälle (Stand 22. November). Ein Lockdown wurde nicht verhängt. Seit Dienstag steigt nach Angaben des Gesundheitsministeriums die Zahl der täglichen Fälle - teils deutlich - auf über 200, die meisten davon im Großraum Seoul, so dass bestimmte Einschränkungen im Freizeit- und religiösen Bereich verhängt wurden. Aber das Land sieht sich laut Baca als Gewinner: "Die südkoreanische Regierung ist stolz, dass sie das Virus besser als die USA und Westeuropa unter Kontrolle gebracht hat."
+
+Als ein Grund für den Erfolg gilt in Südkorea wie in Singapur die extensive Nutzung der mobilen Daten der Bürger. Datenschutz ist demgegenüber zweitrangig, wie etwa in Form einer zeitlichen Begrenzung der Speicherung privater Daten auf den Corona-Warn-Apps von Singapur (25 Tage) und Südkorea (14 Tage). Zu weiteren Gründen für die Erfolge mancher asiatischer Länder bei der Pandemie-Kontrolle gehören allerdings auch frühzeitige Grenzschließungen, soziale Akzeptanz für das Tragen von Masken und das Zurückgreifen auf Notfall-Pläne, die während der Epidemien der Atemwegserkrankungen Sars und Mers erstellt wurden.
+
+Dieser Artikel wurde aktualisiert.
